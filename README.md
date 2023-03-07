@@ -1,4 +1,4 @@
-# Python_Web_Crawler
+# RT Web Crawler
 This is a private repository featuring code to web crawl Rotten Tomatoes' top current films in theaters and create an Excel sheet using Python!
 
 ## Future Development:
